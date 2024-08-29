@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/138_logo_no_bg.png" />
+<img src="./assets/138_logo_no_bg.png" width="50%" />
 
 <i>I spent a whole afternoon making this</i>
 
