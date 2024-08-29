@@ -4,7 +4,7 @@ CS 138 2024.1 stuff
 
 ## PS 1 update log
 
-**August 29, 21:00**
+**August 29, 21:30**
 - Specify usage/non-usage of pivoting for Gaussian Elimination subproblems
 - Qualify LU factorization subproblems properly ("the" –> "a")
 - `Flower Arrangement`: indicate that $`Z_{i,j}`$ can be $`0`$
