@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/138_logo.png" width="50%" />
+<img src="./assets/138_logo.png" width="25%" />
 
 <i>I spent a whole afternoon making this</i>
 
