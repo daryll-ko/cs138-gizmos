@@ -1,6 +1,12 @@
 # `cs138-gizmos`
 
-CS 138 2024.1 stuff
+<div align="center">
+
+<img src="./assets/138_logo_no_bg.png" />
+
+<i>I spent a whole afternoon making this</i>
+
+</div>
 
 ## PS 1 update log
 
