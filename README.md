@@ -4,7 +4,7 @@
 
 <img src="./assets/138_logo.png" width="25%" />
 
-<i>I spent a whole afternoon making this</i>
+<i>so I spent a whole afternoon making this</i>
 
 </div>
 
