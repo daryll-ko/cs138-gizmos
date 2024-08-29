@@ -8,7 +8,9 @@
 
 </div>
 
-## PS 1 update log
+## Update logs
+
+### PS 1
 
 **August 29, 21:30**
 
@@ -18,13 +20,13 @@
 - `Threepeater Tally`: make permutation matrix $`P`$ explicit; remove one subproblem and slightly increase value of last two subproblems
 - `Tall-nut Bowling`: specify iteration matrices for spectral-radius-related subproblems
 
-## PS 0 update log
+### PS 0
 
 **August 28, 14:00**
 
 - Reword bullet point in **Instructions** to make getting $`0`$ points possible
 
-## PS art credits
+## Art credits
 
 ### PS 1
 
