@@ -33,4 +33,4 @@
 ### PS 0
 
 - [YouTube: _\[Blue Archive\] Hifumi's Speech no Jutsu is here!_](https://www.youtube.com/watch?v=xeMNQBdg-Wo)
-  - As someone who plays BA in Japanese I personally also really liked the English version, matches the shots so well :D
+  - As someone who plays BA in Japanese I also really liked the English version of this scene, matches the shots so well :D
