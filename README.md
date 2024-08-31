@@ -19,7 +19,7 @@
   - usage of builtin/external Python libraries
   - formatting inexact answers
 
-- `Last Stand`: Clarify that any answer will be accepted in multiple answers exist
+- `Last Stand`: Clarify that any answer will be accepted if multiple answers exist
 
 **August 29, 21:30**
 
