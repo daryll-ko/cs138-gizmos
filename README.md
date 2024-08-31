@@ -12,6 +12,15 @@
 
 ### PS 1
 
+**August 31, 17:00**
+
+- Add instructions on:
+
+  - usage of builtin/external Python libraries
+  - formatting inexact answers
+
+- `Last Stand`: Clarify that any answer will be accepted in multiple answers exist
+
 **August 29, 21:30**
 
 - Specify usage/non-usage of pivoting for Gaussian Elimination subproblems
