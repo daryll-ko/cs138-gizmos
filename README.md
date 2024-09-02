@@ -12,6 +12,11 @@
 
 ### PS 1
 
+**September 2, 12:00**
+
+- `Flower Arrangement`: fix minor typos ("sunflowers" –> "Marigolds", $`1 \le Z_{i,j} \le 10^9`$ –> $`0 \le Z_{i,j} \le 10^9`$)
+- `Last Stand`: fix minor typo ("nonnegative" –> "positive")
+
 **August 31, 17:00**
 
 - Add instructions on:
