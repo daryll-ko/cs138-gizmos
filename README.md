@@ -36,6 +36,12 @@
 
 ### PS 0
 
+**September 3, 23:00**
+
+- Add instructions for contacting me (Daryll)
+- Add bullet point on indiv / pairing system
+- Very minor stylistic changes
+
 **August 28, 14:00**
 
 - Reword bullet point in **Instructions** to make getting $`0`$ points possible
