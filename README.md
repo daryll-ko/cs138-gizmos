@@ -12,6 +12,12 @@
 
 ### PS 1
 
+**September 12, 15:00**
+
+- Update submission instructions (`team.txt`, only `.zip` archives are allowed now)
+- `Flower Arrangement`: update submission instructions and give a sample file format
+- `Garden Goodbyes`: add a few more guide questions
+
 **September 2, 12:00**
 
 - `Flower Arrangement`: fix minor typos ("sunflowers" –> "Marigolds", $`1 \le Z_{i,j} \le 10^9`$ –> $`0 \le Z_{i,j} \le 10^9`$)
