@@ -16,6 +16,7 @@
 
 - Update submission instructions (`team.txt`, only `.zip` archives are allowed now)
 - `Flower Arrangement`: update submission instructions and give a sample file format
+- `Tall-nut Bowling`: specify the definition of "iteration matrices" we're using
 - `Garden Goodbyes`: add a few more guide questions
 
 **September 2, 12:00**
