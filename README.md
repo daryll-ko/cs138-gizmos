@@ -43,6 +43,13 @@
 
 ### PS 0
 
+**September 21, 17:00**
+
+- Update my F2F times
+- Get ACL's room number right (oops)
+- Use "before" instead of "until" wording for deadline example
+- Make **Lec** scoring system even clearer
+
 **September 3, 23:00**
 
 - Add instructions for contacting me (Daryll)
