@@ -43,6 +43,11 @@
 
 ### PS 0
 
+**September 24, 23:00**
+
+- What to call me
+- There's no point in submitting four days later whoops haha
+
 **September 21, 17:00**
 
 - Update my F2F times
