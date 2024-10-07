@@ -12,7 +12,7 @@
 
 ### PS 2
 
-** October 7, 13:00**
+**October 7, 13:00**
 
 - full problem set release
 
