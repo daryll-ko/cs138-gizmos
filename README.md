@@ -10,10 +10,14 @@
 
 ## Update logs
 
+### PS 2
+
+** October 7, 13:00**
+
+- full problem set release
+
 <details>
 <summary><h3>PS 1</h3></summary>
-
-### PS 1
 
 **September 12, 15:00**
 
@@ -46,7 +50,8 @@
 
 </details>
 
-### PS 0
+<details>
+<summary><h3>PS 0</h3></summary>
 
 **September 24, 23:00**
 
@@ -69,6 +74,8 @@
 **August 28, 14:00**
 
 - Reword bullet point in **Instructions** to make getting $`0`$ points possible
+
+</details>
 
 ## Art credits
 
