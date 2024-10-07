@@ -10,6 +10,9 @@
 
 ## Update logs
 
+<details>
+<summary><h3>PS 1</h3></summary>
+
 ### PS 1
 
 **September 12, 15:00**
@@ -40,6 +43,8 @@
 - `Flower Arrangement`: indicate that $`Z_{i,j}`$ can be $`0`$
 - `Threepeater Tally`: make permutation matrix $`P`$ explicit; remove one subproblem and slightly increase value of last two subproblems
 - `Tall-nut Bowling`: specify iteration matrices for spectral-radius-related subproblems
+
+</details>
 
 ### PS 0
 
