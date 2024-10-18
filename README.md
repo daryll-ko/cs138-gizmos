@@ -12,9 +12,14 @@
 
 ### PS 2
 
+**October 18, 20:30**
+
+- Moved deadline to **October 24**
+- Fix minor typo in first subproblem of `Shooting Far` (`Vec` -> `Vector`)
+
 **October 7, 13:00**
 
-- full problem set release
+- Full problem set release
 
 <details>
 <summary><h3>PS 1</h3></summary>
