@@ -10,7 +10,15 @@
 
 ## Update logs
 
-### PS 2
+### PS 3
+
+**November 14, 22:00**
+
+- **[Cap]** Added example for directory structure
+- **[Cascade]** Improve wording of last subproblem ("Get the" -> "Determine the")
+
+<details>
+<summary><h3>PS 2</h3></summary>
 
 **October 18, 20:30**
 
@@ -20,6 +28,8 @@
 **October 7, 13:00**
 
 - Full problem set release
+
+</details>
 
 <details>
 <summary><h3>PS 1</h3></summary>
