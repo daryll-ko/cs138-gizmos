@@ -12,6 +12,13 @@
 
 ### PS 3
 
+**November 17, 18:00**
+
+- Released **Sand**, **Lake**, and **Wooded** Kingdoms
+- Made pacing slightly slower; $`\le 2`$ kingdoms will be released per day
+  - Moved deadline to **December 3** (penalty per late day or part thereof is now 50%)
+- Unreleased kingdoms are no longer clickable from the selection bar
+
 **November 14, 22:00**
 
 - **[Cap]** Added example for directory structure
