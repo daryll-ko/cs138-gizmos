@@ -12,6 +12,11 @@
 
 ### PS 3
 
+**November 18, 10:00**
+
+- **[Sand]** Provide integral of $`f(x)`$ instead of derivative for last subproblem
+- **[Sand]** Clarify "using one cell" in introduction
+
 **November 17, 18:00**
 
 - Released **Sand**, **Lake**, and **Wooded** Kingdoms
