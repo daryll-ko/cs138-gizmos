@@ -12,6 +12,10 @@
 
 ### PS 3
 
+**November 18, 13:00**
+
+- **[Wooded]** `wooden.png` –> `wooded.png`
+
 **November 18, 11:50**
 
 - **[Sand]** Reword "use one cell" instruction in introduction properly
