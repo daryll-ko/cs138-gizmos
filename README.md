@@ -12,6 +12,10 @@
 
 ### PS 3
 
+**November 18, 11:50**
+
+- **[Sand]** Reword "use one cell" instruction in introduction properly
+
 **November 18, 11:15**
 
 - **[Sand]** Clarify value of $`m`$ for `compare` function
@@ -19,7 +23,7 @@
 **November 18, 10:00**
 
 - **[Sand]** Provide integral of $`f(x)`$ instead of derivative for last subproblem
-- **[Sand]** Clarify "using one cell" in introduction
+- **[Sand]** Clarify "use one cell" in introduction
 
 **November 17, 18:00**
 
