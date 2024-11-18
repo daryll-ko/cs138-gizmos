@@ -12,6 +12,10 @@
 
 ### PS 3
 
+**November 18, 11:15**
+
+- **[Sand]** Clarify value of $`m`$ for `compare` function
+
 **November 18, 10:00**
 
 - **[Sand]** Provide integral of $`f(x)`$ instead of derivative for last subproblem
