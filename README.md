@@ -12,6 +12,11 @@
 
 ### PS 3
 
+**November 20, 20:00**
+
+- Released **Cloud** and **Lost** Kingdoms
+- Made mobile layout tolerable
+
 **November 18, 13:00**
 
 - **[Wooded]** `wooden.png` –> `wooded.png`
