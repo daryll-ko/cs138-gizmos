@@ -12,6 +12,14 @@
 
 ### PS 3
 
+**November 30, 11:15**
+
+- **[Lost]** Made right-hand-side $`-\lambda y`$ instead of $`0`$
+
+**November 29, 1:00**
+
+- Released **Metro**, **Snow**, **Seaside**, and **Luncheon** Kingdoms
+
 **November 20, 20:00**
 
 - Released **Cloud** and **Lost** Kingdoms
