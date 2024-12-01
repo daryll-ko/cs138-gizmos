@@ -12,6 +12,12 @@
 
 ### PS 3
 
+**December 1, 14:00**
+
+- Released **Ruined**, **Bowser**, **Moon**, and **Mushroom** Kingdoms
+- Moved deadline one last time to **December 5**
+  - Like PS 2, late submissions now get $`0`$
+
 **November 30, 11:15**
 
 - **[Lost]** Made right-hand-side $`-\lambda y`$ instead of $`0`$
