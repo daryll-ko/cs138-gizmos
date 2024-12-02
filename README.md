@@ -12,6 +12,10 @@
 
 ### PS 3
 
+**December 2, 20:30**
+
+- **[Cloud]** Add bounds ($`[0, 1]`$) for differential equation
+
 **December 1, 14:00**
 
 - Released **Ruined**, **Bowser**, **Moon**, and **Mushroom** Kingdoms
