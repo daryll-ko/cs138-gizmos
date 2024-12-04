@@ -12,6 +12,12 @@
 
 ### PS 3
 
+**December 4, 12:30**
+
+- Reduced denominator from $`700`$ to $`600`$
+- **[Moon]** Kingdom is now worth $`70`$ Power Moons (from $`80`$)
+- **[Luncheon]** Kingdom is now worth $`70`$ Power Moons (from $`60`$)
+
 **December 2, 20:30**
 
 - **[Cloud]** Add bounds ($`[0, 1]`$) for differential equation
